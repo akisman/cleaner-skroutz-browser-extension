@@ -10,6 +10,10 @@ The extension works on Firefox, Chrome, and Edge, and should be compatible with 
 - Eliminates promotional sections like "Best Budget Products" from product listings.
 - Removes ads from product pages.
 
+## Installation
+
+Install directly from [Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/addon/cleaner-skroutz)
+
 ### For Development
 
 #### Firefox
